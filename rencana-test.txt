@@ -6,3 +6,4 @@ RENCANA TEST
   *Make new Branching
   *Insight - Network
 -Add new insight
+ *ini untuk orang yg menggunakan branches yg ke-1 ini
