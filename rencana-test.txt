@@ -5,3 +5,4 @@ RENCANA TEST
 -Branching
   *Make new Branching
   *Insight - Network
+-Add new insight
