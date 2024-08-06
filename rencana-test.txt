@@ -5,5 +5,7 @@ RENCANA TEST
 -Branching
   *Make new Branching
   *Insight - Network
--Add new insight untuk tes ini
- *hanya menambah untuk tes branches ke-2
+  
+-Add new insight for the second
+ *ini untuk orang yg menggunakan branches yg ke-1 ini
+
